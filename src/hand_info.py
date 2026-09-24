@@ -1,0 +1,30 @@
+HAND_CONNECTIONS = [
+    (0,1),(1,2),(2,3),(3,4),       # thumb
+    (0,5),(5,6),(6,7),(7,8),       # index
+    (0,9),(9,10),(10,11),(11,12),  # middle
+    (0,13),(13,14),(14,15),(15,16),# ring
+    (0,17),(17,18),(18,19),(19,20) # pinky
+   # (5, 9), (9, 13), (13, 17)     # palm
+]
+
+WRIST = 0
+THUMB_BASE = 1
+THUMB_KNUCKLE_1 = 2
+THUMB_KNUCKLE_2 = 3
+THUMB_TIP = 4
+INDEX_KNUCKLE_1 = 5
+INDEX_KNUCKLE_2 = 6
+INDEX_KNUCKLE_3 = 7
+INDEX_TIP = 8
+MIDDLE_KNUCKLE_1 = 9
+MIDDLE_KNUCKLE_2 = 10
+MIDDLE_KNUCKLE_3 = 11
+MIDDLE_TIP = 12
+RING_KNUCKLE_1 = 13
+RING_KNUCKLE_2 = 14
+RING_KNUCKLE_3 = 15
+RING_TIP = 16
+PINKY_KNUCKLE_1 = 17
+PINKY_KNUCKLE_2 = 18
+PINKY_KNUCKLE_3 = 19
+PINKY_TIP = 20

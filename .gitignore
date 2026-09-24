@@ -1,0 +1,7 @@
+models/
+.DS_Store
+.conda/
+__pycache__/
+*.log
+*.tmp
+*.pyc
